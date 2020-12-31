@@ -1,5 +1,5 @@
 
-// Ralph Liton 500958086
+// Ralph Liton
 public class Course 
 {
 	private String code;
