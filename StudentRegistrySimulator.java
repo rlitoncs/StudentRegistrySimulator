@@ -1,4 +1,4 @@
-// Ralph Liton 500958086
+// Ralph Liton
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
