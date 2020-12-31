@@ -1,4 +1,4 @@
-// Ralph Liton 500958086
+// Ralph Liton 
 public class CreditCourse extends Course
 {
 	private String semester;
