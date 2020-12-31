@@ -1,2 +1,2 @@
 # StudentRegistrySimulator
-A simple simulator that allows users to register/delete students, add/delete/update/view courses and grades of students, and schedule appointments at specific times.
+A simple simulator that allows users to store and update information about students, courses, and grades, as well as scheduling appointments at specific times in the Student Registry. 
