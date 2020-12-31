@@ -1,4 +1,4 @@
-// Ralph Liton 500958086
+// Ralph Liton
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.InputMismatchException;
